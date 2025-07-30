@@ -1,0 +1,401 @@
+2025-07-30 02:02:42,775 | INFO | 🚀 Старт бота
+2025-07-30 02:02:42,779 | INFO | 📦 Загружено привычек: 2
+2025-07-30 02:02:43,039 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 02:02:43,040 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 02:02:43,041 | INFO | Added job "check_reminders" to job store "default"
+2025-07-30 02:02:43,041 | INFO | Added job "check_inactivity" to job store "default"
+2025-07-30 02:02:43,041 | INFO | Scheduler started
+2025-07-30 02:02:43,106 | INFO | Start polling
+2025-07-30 02:02:43,175 | INFO | Run polling for bot @Tony_Botelli_bot id=7970795816 - 'Amigo'
+2025-07-30 02:02:48,513 | INFO | Update id=746129551 is handled. Duration 1 ms by bot id=7970795816
+2025-07-30 02:02:51,783 | INFO | ✅ Пользователь 939946025 нажал /start
+2025-07-30 02:02:52,040 | INFO | Update id=746129552 is handled. Duration 257 ms by bot id=7970795816
+2025-07-30 02:02:54,480 | INFO | Update id=746129553 is handled. Duration 1 ms by bot id=7970795816
+2025-07-30 02:03:43,052 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:04:43 UTC)" (scheduled at 2025-07-29 23:03:43.039789+00:00)
+2025-07-30 02:03:43,052 | INFO | Проверка напоминаний... (время: 02:03)
+2025-07-30 02:03:43,053 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:04:43 UTC)" executed successfully
+2025-07-30 02:03:43,054 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:04:43 UTC)" (scheduled at 2025-07-29 23:03:43.040151+00:00)
+2025-07-30 02:03:43,054 | INFO | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:04:43 UTC)" executed successfully
+2025-07-30 02:04:30,867 | INFO | Update id=746129554 is handled. Duration 1 ms by bot id=7970795816
+2025-07-30 02:04:43,048 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:05:43 UTC)" (scheduled at 2025-07-29 23:04:43.039789+00:00)
+2025-07-30 02:04:43,048 | INFO | Проверка напоминаний... (время: 02:04)
+2025-07-30 02:04:43,049 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:05:43 UTC)" executed successfully
+2025-07-30 02:04:43,049 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:05:43 UTC)" (scheduled at 2025-07-29 23:04:43.040151+00:00)
+2025-07-30 02:04:43,049 | INFO | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:05:43 UTC)" executed successfully
+2025-07-30 02:04:53,509 | INFO | 🚀 Старт бота
+2025-07-30 02:04:53,513 | INFO | 📦 Загружено привычек: 2
+2025-07-30 02:04:53,769 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 02:04:53,769 | INFO | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-30 02:04:53,771 | INFO | Added job "check_reminders" to job store "default"
+2025-07-30 02:04:53,771 | INFO | Added job "check_inactivity" to job store "default"
+2025-07-30 02:04:53,771 | INFO | Scheduler started
+2025-07-30 02:04:53,833 | INFO | Start polling
+2025-07-30 02:04:53,896 | INFO | Run polling for bot @Tony_Botelli_bot id=7970795816 - 'Amigo'
+2025-07-30 02:04:57,036 | INFO | [DAY] user=939946025 начал дневник
+2025-07-30 02:04:57,305 | INFO | Update id=746129555 is handled. Duration 269 ms by bot id=7970795816
+2025-07-30 02:05:00,178 | INFO | Update id=746129556 is handled. Duration 77 ms by bot id=7970795816
+2025-07-30 02:05:03,445 | INFO | Update id=746129557 is handled. Duration 82 ms by bot id=7970795816
+2025-07-30 02:05:09,850 | INFO | Update id=746129558 is handled. Duration 89 ms by bot id=7970795816
+2025-07-30 02:05:14,155 | INFO | Update id=746129559 is handled. Duration 109 ms by bot id=7970795816
+2025-07-30 02:05:16,677 | INFO | Update id=746129560 is handled. Duration 77 ms by bot id=7970795816
+2025-07-30 02:05:53,772 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:06:53 UTC)" (scheduled at 2025-07-29 23:05:53.769461+00:00)
+2025-07-30 02:05:53,773 | INFO | Проверка напоминаний... (время: 02:05)
+2025-07-30 02:05:53,773 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:06:53 UTC)" executed successfully
+2025-07-30 02:05:53,774 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:06:53 UTC)" (scheduled at 2025-07-29 23:05:53.769819+00:00)
+2025-07-30 02:05:53,774 | INFO | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:06:53 UTC)" executed successfully
+2025-07-30 02:06:17,227 | INFO | Update id=746129561 is handled. Duration 95 ms by bot id=7970795816
+2025-07-30 02:06:19,269 | INFO | Update id=746129562 is handled. Duration 183 ms by bot id=7970795816
+2025-07-30 02:06:53,784 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:07:53 UTC)" (scheduled at 2025-07-29 23:06:53.769461+00:00)
+2025-07-30 02:06:53,785 | INFO | Проверка напоминаний... (время: 02:06)
+2025-07-30 02:06:53,786 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:07:53 UTC)" executed successfully
+2025-07-30 02:06:53,786 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:07:53 UTC)" (scheduled at 2025-07-29 23:06:53.769819+00:00)
+2025-07-30 02:06:53,786 | INFO | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:07:53 UTC)" executed successfully
+2025-07-30 02:07:04,962 | INFO | Update id=746129563 is handled. Duration 80 ms by bot id=7970795816
+2025-07-30 02:07:11,731 | INFO | Update id=746129564 is handled. Duration 76 ms by bot id=7970795816
+2025-07-30 02:07:53,781 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:08:53 UTC)" (scheduled at 2025-07-29 23:07:53.769461+00:00)
+2025-07-30 02:07:53,781 | INFO | Проверка напоминаний... (время: 02:07)
+2025-07-30 02:07:53,782 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:08:53 UTC)" executed successfully
+2025-07-30 02:07:53,782 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:08:53 UTC)" (scheduled at 2025-07-29 23:07:53.769819+00:00)
+2025-07-30 02:07:53,782 | INFO | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:08:53 UTC)" executed successfully
+2025-07-30 02:08:53,777 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:09:53 UTC)" (scheduled at 2025-07-29 23:08:53.769461+00:00)
+2025-07-30 02:08:53,777 | INFO | Проверка напоминаний... (время: 02:08)
+2025-07-30 02:08:53,778 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:09:53 UTC)" executed successfully
+2025-07-30 02:08:53,778 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:09:53 UTC)" (scheduled at 2025-07-29 23:08:53.769819+00:00)
+2025-07-30 02:08:53,779 | INFO | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:09:53 UTC)" executed successfully
+2025-07-30 02:09:53,770 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:10:53 UTC)" (scheduled at 2025-07-29 23:09:53.769461+00:00)
+2025-07-30 02:09:53,771 | INFO | Проверка напоминаний... (время: 02:09)
+2025-07-30 02:09:53,772 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:10:53 UTC)" executed successfully
+2025-07-30 02:09:53,772 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:10:53 UTC)" (scheduled at 2025-07-29 23:09:53.769819+00:00)
+2025-07-30 02:09:53,772 | INFO | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:10:53 UTC)" executed successfully
+2025-07-30 02:10:53,781 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:11:53 UTC)" (scheduled at 2025-07-29 23:10:53.769461+00:00)
+2025-07-30 02:10:53,781 | INFO | Проверка напоминаний... (время: 02:10)
+2025-07-30 02:10:53,782 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:11:53 UTC)" executed successfully
+2025-07-30 02:10:53,782 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:11:53 UTC)" (scheduled at 2025-07-29 23:10:53.769819+00:00)
+2025-07-30 02:10:53,782 | INFO | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:11:53 UTC)" executed successfully
+2025-07-30 02:11:53,771 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:12:53 UTC)" (scheduled at 2025-07-29 23:11:53.769461+00:00)
+2025-07-30 02:11:53,772 | INFO | Проверка напоминаний... (время: 02:11)
+2025-07-30 02:11:53,772 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:12:53 UTC)" executed successfully
+2025-07-30 02:11:53,773 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:12:53 UTC)" (scheduled at 2025-07-29 23:11:53.769819+00:00)
+2025-07-30 02:11:53,773 | INFO | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:12:53 UTC)" executed successfully
+2025-07-30 02:12:53,771 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:13:53 UTC)" (scheduled at 2025-07-29 23:12:53.769461+00:00)
+2025-07-30 02:12:53,771 | INFO | Проверка напоминаний... (время: 02:12)
+2025-07-30 02:12:53,772 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:13:53 UTC)" executed successfully
+2025-07-30 02:12:53,772 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:13:53 UTC)" (scheduled at 2025-07-29 23:12:53.769819+00:00)
+2025-07-30 02:12:53,772 | WARNING | ⚠️ Бот бездействует более 8 минут. Завершаем работу.
+2025-07-30 02:12:53,900 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-07-30 02:12:53,901 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7970795816)
+2025-07-30 02:12:54,047 | ERROR | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:13:53 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\wild2\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base_py3.py", line 29, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wild2\OneDrive\Рабочий стол\Проекты\Ботик\main.py", line 105, in check_inactivity
+    exit(0)
+    ~~~~^^^
+  File "<frozen _sitebuiltins>", line 26, in __call__
+SystemExit: 0
+2025-07-30 02:13:05,098 | INFO | Connection established (tryings = 1, bot id = 7970795816)
+2025-07-30 02:13:53,770 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:14:53 UTC)" (scheduled at 2025-07-29 23:13:53.769461+00:00)
+2025-07-30 02:13:53,771 | INFO | Проверка напоминаний... (время: 02:13)
+2025-07-30 02:13:53,772 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:14:53 UTC)" executed successfully
+2025-07-30 02:13:53,772 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:14:53 UTC)" (scheduled at 2025-07-29 23:13:53.769819+00:00)
+2025-07-30 02:13:53,772 | WARNING | ⚠️ Бот бездействует более 8 минут. Завершаем работу.
+2025-07-30 02:13:54,023 | ERROR | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:14:53 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\wild2\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base_py3.py", line 29, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wild2\OneDrive\Рабочий стол\Проекты\Ботик\main.py", line 105, in check_inactivity
+    exit(0)
+    ~~~~^^^
+  File "<frozen _sitebuiltins>", line 26, in __call__
+SystemExit: 0
+2025-07-30 02:13:55,409 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-07-30 02:13:55,410 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7970795816)
+2025-07-30 02:14:06,617 | INFO | Connection established (tryings = 1, bot id = 7970795816)
+2025-07-30 02:14:53,779 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:15:53 UTC)" (scheduled at 2025-07-29 23:14:53.769461+00:00)
+2025-07-30 02:14:53,779 | INFO | Проверка напоминаний... (время: 02:14)
+2025-07-30 02:14:53,780 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:15:53 UTC)" executed successfully
+2025-07-30 02:14:53,780 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:15:53 UTC)" (scheduled at 2025-07-29 23:14:53.769819+00:00)
+2025-07-30 02:14:53,780 | WARNING | ⚠️ Бот бездействует более 8 минут. Завершаем работу.
+2025-07-30 02:14:54,033 | ERROR | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:15:53 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\wild2\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base_py3.py", line 29, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wild2\OneDrive\Рабочий стол\Проекты\Ботик\main.py", line 105, in check_inactivity
+    exit(0)
+    ~~~~^^^
+  File "<frozen _sitebuiltins>", line 26, in __call__
+SystemExit: 0
+2025-07-30 02:14:56,951 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-07-30 02:14:56,951 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7970795816)
+2025-07-30 02:15:08,155 | INFO | Connection established (tryings = 1, bot id = 7970795816)
+2025-07-30 02:15:53,778 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:16:53 UTC)" (scheduled at 2025-07-29 23:15:53.769461+00:00)
+2025-07-30 02:15:53,778 | INFO | Проверка напоминаний... (время: 02:15)
+2025-07-30 02:15:53,779 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:16:53 UTC)" executed successfully
+2025-07-30 02:15:53,779 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:16:53 UTC)" (scheduled at 2025-07-29 23:15:53.769819+00:00)
+2025-07-30 02:15:53,780 | WARNING | ⚠️ Бот бездействует более 8 минут. Завершаем работу.
+2025-07-30 02:15:54,032 | ERROR | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:16:53 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\wild2\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base_py3.py", line 29, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wild2\OneDrive\Рабочий стол\Проекты\Ботик\main.py", line 105, in check_inactivity
+    exit(0)
+    ~~~~^^^
+  File "<frozen _sitebuiltins>", line 26, in __call__
+SystemExit: 0
+2025-07-30 02:15:58,503 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-07-30 02:15:58,503 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7970795816)
+2025-07-30 02:16:09,716 | INFO | Connection established (tryings = 1, bot id = 7970795816)
+2025-07-30 02:16:53,778 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:17:53 UTC)" (scheduled at 2025-07-29 23:16:53.769461+00:00)
+2025-07-30 02:16:53,778 | INFO | Проверка напоминаний... (время: 02:16)
+2025-07-30 02:16:53,779 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:17:53 UTC)" executed successfully
+2025-07-30 02:16:53,779 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:17:53 UTC)" (scheduled at 2025-07-29 23:16:53.769819+00:00)
+2025-07-30 02:16:53,779 | WARNING | ⚠️ Бот бездействует более 8 минут. Завершаем работу.
+2025-07-30 02:16:54,044 | ERROR | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:17:53 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\wild2\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base_py3.py", line 29, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wild2\OneDrive\Рабочий стол\Проекты\Ботик\main.py", line 105, in check_inactivity
+    exit(0)
+    ~~~~^^^
+  File "<frozen _sitebuiltins>", line 26, in __call__
+SystemExit: 0
+2025-07-30 02:17:00,063 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-07-30 02:17:00,064 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7970795816)
+2025-07-30 02:17:11,282 | INFO | Connection established (tryings = 1, bot id = 7970795816)
+2025-07-30 02:17:40,411 | INFO | Update id=746129565 is handled. Duration 247 ms by bot id=7970795816
+2025-07-30 02:17:50,298 | INFO | Update id=746129566 is handled. Duration 113 ms by bot id=7970795816
+2025-07-30 02:17:53,779 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:18:53 UTC)" (scheduled at 2025-07-29 23:17:53.769461+00:00)
+2025-07-30 02:17:53,779 | INFO | Проверка напоминаний... (время: 02:17)
+2025-07-30 02:17:53,780 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:18:53 UTC)" executed successfully
+2025-07-30 02:17:53,780 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:18:53 UTC)" (scheduled at 2025-07-29 23:17:53.769819+00:00)
+2025-07-30 02:17:53,780 | WARNING | ⚠️ Бот бездействует более 8 минут. Завершаем работу.
+2025-07-30 02:17:54,044 | ERROR | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:18:53 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\wild2\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base_py3.py", line 29, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wild2\OneDrive\Рабочий стол\Проекты\Ботик\main.py", line 105, in check_inactivity
+    exit(0)
+    ~~~~^^^
+  File "<frozen _sitebuiltins>", line 26, in __call__
+SystemExit: 0
+2025-07-30 02:18:00,246 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-07-30 02:18:00,246 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7970795816)
+2025-07-30 02:18:11,454 | INFO | Connection established (tryings = 1, bot id = 7970795816)
+2025-07-30 02:18:45,376 | INFO | Update id=746129567 is handled. Duration 246 ms by bot id=7970795816
+2025-07-30 02:18:49,479 | INFO | Update id=746129568 is handled. Duration 88 ms by bot id=7970795816
+2025-07-30 02:18:51,427 | INFO | Update id=746129569 is handled. Duration 189 ms by bot id=7970795816
+2025-07-30 02:18:53,566 | INFO | Update id=746129570 is handled. Duration 197 ms by bot id=7970795816
+2025-07-30 02:18:53,782 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:19:53 UTC)" (scheduled at 2025-07-29 23:18:53.769461+00:00)
+2025-07-30 02:18:53,782 | INFO | Проверка напоминаний... (время: 02:18)
+2025-07-30 02:18:53,784 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:19:53 UTC)" executed successfully
+2025-07-30 02:18:53,785 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:19:53 UTC)" (scheduled at 2025-07-29 23:18:53.769819+00:00)
+2025-07-30 02:18:53,785 | WARNING | ⚠️ Бот бездействует более 8 минут. Завершаем работу.
+2025-07-30 02:18:54,048 | ERROR | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:19:53 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\wild2\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base_py3.py", line 29, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wild2\OneDrive\Рабочий стол\Проекты\Ботик\main.py", line 105, in check_inactivity
+    exit(0)
+    ~~~~^^^
+  File "<frozen _sitebuiltins>", line 26, in __call__
+SystemExit: 0
+2025-07-30 02:18:55,117 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-07-30 02:18:55,117 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7970795816)
+2025-07-30 02:18:56,377 | INFO | Connection established (tryings = 1, bot id = 7970795816)
+2025-07-30 02:18:56,625 | INFO | Update id=746129571 is handled. Duration 247 ms by bot id=7970795816
+2025-07-30 02:18:57,675 | INFO | Update id=746129572 is handled. Duration 82 ms by bot id=7970795816
+2025-07-30 02:18:59,814 | INFO | Update id=746129573 is handled. Duration 96 ms by bot id=7970795816
+2025-07-30 02:19:00,837 | INFO | Update id=746129574 is handled. Duration 81 ms by bot id=7970795816
+2025-07-30 02:19:03,786 | INFO | Update id=746129575 is handled. Duration 84 ms by bot id=7970795816
+2025-07-30 02:19:05,239 | INFO | Update id=746129576 is handled. Duration 86 ms by bot id=7970795816
+2025-07-30 02:19:07,388 | INFO | Update id=746129577 is handled. Duration 89 ms by bot id=7970795816
+2025-07-30 02:19:12,101 | INFO | ✅ Пользователь 939946025 нажал /start
+2025-07-30 02:19:12,193 | INFO | Update id=746129578 is handled. Duration 93 ms by bot id=7970795816
+2025-07-30 02:19:18,409 | INFO | [DAY] user=939946025 начал дневник
+2025-07-30 02:19:18,497 | INFO | Update id=746129579 is handled. Duration 88 ms by bot id=7970795816
+2025-07-30 02:19:20,679 | INFO | Update id=746129580 is handled. Duration 82 ms by bot id=7970795816
+2025-07-30 02:19:22,524 | INFO | Update id=746129581 is handled. Duration 83 ms by bot id=7970795816
+2025-07-30 02:19:23,846 | INFO | Update id=746129582 is handled. Duration 106 ms by bot id=7970795816
+2025-07-30 02:19:25,796 | INFO | Update id=746129583 is handled. Duration 103 ms by bot id=7970795816
+2025-07-30 02:19:27,051 | INFO | Update id=746129584 is handled. Duration 129 ms by bot id=7970795816
+2025-07-30 02:19:28,003 | INFO | Update id=746129585 is handled. Duration 96 ms by bot id=7970795816
+2025-07-30 02:19:29,120 | INFO | Update id=746129586 is handled. Duration 125 ms by bot id=7970795816
+2025-07-30 02:19:30,544 | INFO | Update id=746129587 is handled. Duration 174 ms by bot id=7970795816
+2025-07-30 02:19:31,629 | INFO | Update id=746129588 is handled. Duration 96 ms by bot id=7970795816
+2025-07-30 02:19:32,410 | INFO | Update id=746129589 is handled. Duration 89 ms by bot id=7970795816
+2025-07-30 02:19:41,892 | INFO | Update id=746129590 is handled. Duration 3 ms by bot id=7970795816
+2025-07-30 02:19:50,357 | INFO | Update id=746129591 is handled. Duration 3 ms by bot id=7970795816
+2025-07-30 02:19:53,774 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:20:53 UTC)" (scheduled at 2025-07-29 23:19:53.769461+00:00)
+2025-07-30 02:19:53,775 | INFO | Проверка напоминаний... (время: 02:19)
+2025-07-30 02:19:53,776 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:20:53 UTC)" executed successfully
+2025-07-30 02:19:53,777 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:20:53 UTC)" (scheduled at 2025-07-29 23:19:53.769819+00:00)
+2025-07-30 02:19:53,777 | WARNING | ⚠️ Бот бездействует более 8 минут. Завершаем работу.
+2025-07-30 02:19:54,043 | ERROR | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:20:53 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\wild2\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base_py3.py", line 29, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wild2\OneDrive\Рабочий стол\Проекты\Ботик\main.py", line 105, in check_inactivity
+    exit(0)
+    ~~~~^^^
+  File "<frozen _sitebuiltins>", line 26, in __call__
+SystemExit: 0
+2025-07-30 02:20:00,420 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-07-30 02:20:00,421 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7970795816)
+2025-07-30 02:20:11,638 | INFO | Connection established (tryings = 1, bot id = 7970795816)
+2025-07-30 02:20:53,773 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:21:53 UTC)" (scheduled at 2025-07-29 23:20:53.769461+00:00)
+2025-07-30 02:20:53,773 | INFO | Проверка напоминаний... (время: 02:20)
+2025-07-30 02:20:53,774 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:21:53 UTC)" executed successfully
+2025-07-30 02:20:53,774 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:21:53 UTC)" (scheduled at 2025-07-29 23:20:53.769819+00:00)
+2025-07-30 02:20:53,775 | WARNING | ⚠️ Бот бездействует более 8 минут. Завершаем работу.
+2025-07-30 02:20:54,040 | ERROR | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:21:53 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\wild2\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base_py3.py", line 29, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wild2\OneDrive\Рабочий стол\Проекты\Ботик\main.py", line 105, in check_inactivity
+    exit(0)
+    ~~~~^^^
+  File "<frozen _sitebuiltins>", line 26, in __call__
+SystemExit: 0
+2025-07-30 02:20:54,274 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-07-30 02:20:54,274 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7970795816)
+2025-07-30 02:20:55,536 | INFO | Connection established (tryings = 1, bot id = 7970795816)
+2025-07-30 02:20:55,539 | INFO | ✅ Пользователь 939946025 нажал /start
+2025-07-30 02:20:55,785 | INFO | Update id=746129592 is handled. Duration 248 ms by bot id=7970795816
+2025-07-30 02:21:06,871 | INFO | Update id=746129593 is handled. Duration 3 ms by bot id=7970795816
+2025-07-30 02:21:13,824 | INFO | Update id=746129594 is handled. Duration 3 ms by bot id=7970795816
+2025-07-30 02:21:53,781 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:22:53 UTC)" (scheduled at 2025-07-29 23:21:53.769461+00:00)
+2025-07-30 02:21:53,781 | INFO | Проверка напоминаний... (время: 02:21)
+2025-07-30 02:21:53,782 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:22:53 UTC)" executed successfully
+2025-07-30 02:21:53,783 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:22:53 UTC)" (scheduled at 2025-07-29 23:21:53.769819+00:00)
+2025-07-30 02:21:53,783 | WARNING | ⚠️ Бот бездействует более 8 минут. Завершаем работу.
+2025-07-30 02:21:54,034 | ERROR | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:22:53 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\wild2\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base_py3.py", line 29, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wild2\OneDrive\Рабочий стол\Проекты\Ботик\main.py", line 105, in check_inactivity
+    exit(0)
+    ~~~~^^^
+  File "<frozen _sitebuiltins>", line 26, in __call__
+SystemExit: 0
+2025-07-30 02:21:54,086 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-07-30 02:21:54,086 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7970795816)
+2025-07-30 02:22:05,301 | INFO | Connection established (tryings = 1, bot id = 7970795816)
+2025-07-30 02:22:53,781 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:23:53 UTC)" (scheduled at 2025-07-29 23:22:53.769461+00:00)
+2025-07-30 02:22:53,782 | INFO | Проверка напоминаний... (время: 02:22)
+2025-07-30 02:22:53,783 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:23:53 UTC)" executed successfully
+2025-07-30 02:22:53,783 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:23:53 UTC)" (scheduled at 2025-07-29 23:22:53.769819+00:00)
+2025-07-30 02:22:53,783 | WARNING | ⚠️ Бот бездействует более 8 минут. Завершаем работу.
+2025-07-30 02:22:54,046 | ERROR | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:23:53 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\wild2\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base_py3.py", line 29, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wild2\OneDrive\Рабочий стол\Проекты\Ботик\main.py", line 105, in check_inactivity
+    exit(0)
+    ~~~~^^^
+  File "<frozen _sitebuiltins>", line 26, in __call__
+SystemExit: 0
+2025-07-30 02:22:55,626 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-07-30 02:22:55,627 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7970795816)
+2025-07-30 02:23:06,826 | INFO | Connection established (tryings = 1, bot id = 7970795816)
+2025-07-30 02:23:17,559 | INFO | Update id=746129595 is handled. Duration 2 ms by bot id=7970795816
+2025-07-30 02:23:53,772 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:24:53 UTC)" (scheduled at 2025-07-29 23:23:53.769461+00:00)
+2025-07-30 02:23:53,772 | INFO | Проверка напоминаний... (время: 02:23)
+2025-07-30 02:23:53,773 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:24:53 UTC)" executed successfully
+2025-07-30 02:23:53,773 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:24:53 UTC)" (scheduled at 2025-07-29 23:23:53.769819+00:00)
+2025-07-30 02:23:53,774 | WARNING | ⚠️ Бот бездействует более 8 минут. Завершаем работу.
+2025-07-30 02:23:54,025 | ERROR | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:24:53 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\wild2\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base_py3.py", line 29, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wild2\OneDrive\Рабочий стол\Проекты\Ботик\main.py", line 105, in check_inactivity
+    exit(0)
+    ~~~~^^^
+  File "<frozen _sitebuiltins>", line 26, in __call__
+SystemExit: 0
+2025-07-30 02:23:57,817 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-07-30 02:23:57,818 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7970795816)
+2025-07-30 02:24:09,017 | INFO | Connection established (tryings = 1, bot id = 7970795816)
+2025-07-30 02:24:53,774 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:25:53 UTC)" (scheduled at 2025-07-29 23:24:53.769461+00:00)
+2025-07-30 02:24:53,774 | INFO | Проверка напоминаний... (время: 02:24)
+2025-07-30 02:24:53,775 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:25:53 UTC)" executed successfully
+2025-07-30 02:24:53,775 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:25:53 UTC)" (scheduled at 2025-07-29 23:24:53.769819+00:00)
+2025-07-30 02:24:53,776 | WARNING | ⚠️ Бот бездействует более 8 минут. Завершаем работу.
+2025-07-30 02:24:54,041 | ERROR | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:25:53 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\wild2\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base_py3.py", line 29, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wild2\OneDrive\Рабочий стол\Проекты\Ботик\main.py", line 105, in check_inactivity
+    exit(0)
+    ~~~~^^^
+  File "<frozen _sitebuiltins>", line 26, in __call__
+SystemExit: 0
+2025-07-30 02:24:59,347 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-07-30 02:24:59,347 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7970795816)
+2025-07-30 02:25:10,552 | INFO | Connection established (tryings = 1, bot id = 7970795816)
+2025-07-30 02:25:53,773 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:26:53 UTC)" (scheduled at 2025-07-29 23:25:53.769461+00:00)
+2025-07-30 02:25:53,773 | INFO | Проверка напоминаний... (время: 02:25)
+2025-07-30 02:25:53,774 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:26:53 UTC)" executed successfully
+2025-07-30 02:25:53,774 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:26:53 UTC)" (scheduled at 2025-07-29 23:25:53.769819+00:00)
+2025-07-30 02:25:53,775 | WARNING | ⚠️ Бот бездействует более 8 минут. Завершаем работу.
+2025-07-30 02:25:54,027 | ERROR | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:26:53 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\wild2\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base_py3.py", line 29, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wild2\OneDrive\Рабочий стол\Проекты\Ботик\main.py", line 105, in check_inactivity
+    exit(0)
+    ~~~~^^^
+  File "<frozen _sitebuiltins>", line 26, in __call__
+SystemExit: 0
+2025-07-30 02:26:00,896 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-07-30 02:26:00,896 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7970795816)
+2025-07-30 02:26:12,101 | INFO | Connection established (tryings = 1, bot id = 7970795816)
+2025-07-30 02:26:53,774 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:27:53 UTC)" (scheduled at 2025-07-29 23:26:53.769461+00:00)
+2025-07-30 02:26:53,774 | INFO | Проверка напоминаний... (время: 02:26)
+2025-07-30 02:26:53,775 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:27:53 UTC)" executed successfully
+2025-07-30 02:26:53,775 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:27:53 UTC)" (scheduled at 2025-07-29 23:26:53.769819+00:00)
+2025-07-30 02:26:53,775 | WARNING | ⚠️ Бот бездействует более 8 минут. Завершаем работу.
+2025-07-30 02:26:54,040 | ERROR | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:27:53 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\wild2\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base_py3.py", line 29, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wild2\OneDrive\Рабочий стол\Проекты\Ботик\main.py", line 105, in check_inactivity
+    exit(0)
+    ~~~~^^^
+  File "<frozen _sitebuiltins>", line 26, in __call__
+SystemExit: 0
+2025-07-30 02:27:02,428 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-07-30 02:27:02,428 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7970795816)
+2025-07-30 02:27:13,653 | INFO | Connection established (tryings = 1, bot id = 7970795816)
+2025-07-30 02:27:53,776 | INFO | Running job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:28:53 UTC)" (scheduled at 2025-07-29 23:27:53.769461+00:00)
+2025-07-30 02:27:53,776 | INFO | Проверка напоминаний... (время: 02:27)
+2025-07-30 02:27:53,777 | INFO | Job "check_reminders (trigger: interval[0:01:00], next run at: 2025-07-29 23:28:53 UTC)" executed successfully
+2025-07-30 02:27:53,777 | INFO | Running job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:28:53 UTC)" (scheduled at 2025-07-29 23:27:53.769819+00:00)
+2025-07-30 02:27:53,777 | WARNING | ⚠️ Бот бездействует более 8 минут. Завершаем работу.
+2025-07-30 02:27:53,926 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2775)
+2025-07-30 02:27:53,926 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7970795816)
+2025-07-30 02:27:54,043 | ERROR | Job "check_inactivity (trigger: interval[0:01:00], next run at: 2025-07-29 23:28:53 UTC)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\wild2\AppData\Local\Programs\Python\Python313\Lib\site-packages\apscheduler\executors\base_py3.py", line 29, in run_coroutine_job
+    retval = await job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\wild2\OneDrive\Рабочий стол\Проекты\Ботик\main.py", line 105, in check_inactivity
+    exit(0)
+    ~~~~^^^
+  File "<frozen _sitebuiltins>", line 26, in __call__
+SystemExit: 0
+2025-07-30 02:28:05,129 | INFO | Connection established (tryings = 1, bot id = 7970795816)
